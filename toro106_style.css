@@ -2504,7 +2504,7 @@ background-position: 0 -70px;
 
 .right a.button {
     top: 0;
-    background: #FF9900;
+    background: red;
     box-sizing: border-box;
     padding: 5px;
     display: inline-block;
